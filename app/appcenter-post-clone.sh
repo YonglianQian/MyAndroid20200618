@@ -1,4 +1,7 @@
 #!/usr/bin/env bash
 
 # Example: Install App Center CLI
-npm install -g appcenter-cli
+# npm install -g appcenter-cli
+echo "-------------------------------"
+echo "system variable"
+echo "-------------------------------"
