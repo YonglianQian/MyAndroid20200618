@@ -5,7 +5,7 @@
 echo "-------------------------------"
 echo "system variable"
 echo "AppCenter_branch: "+$APPCENTER_BRANCH
-echo $(PRODUCT_NAME)
-echo $env:mykey1
-echo ${System.env.mykey2}
+echo $PRODUCT_NAME
+echo $mykey1
+echo $mykey2
 echo "-------------------------------"
