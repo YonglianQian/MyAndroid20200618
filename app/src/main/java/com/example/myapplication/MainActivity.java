@@ -10,6 +10,7 @@ import android.widget.EditText;
 import com.microsoft.appcenter.AppCenter;
 import com.microsoft.appcenter.analytics.Analytics;
 import com.microsoft.appcenter.crashes.Crashes;
+import com.microsoft.appcenter.utils.async.AppCenterConsumer;
 
 import java.util.HashMap;
 import java.util.Map;

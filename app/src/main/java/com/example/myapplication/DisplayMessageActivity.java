@@ -12,7 +12,7 @@ public class DisplayMessageActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
-       // Crashes.generateTestCrash();
+        //Crashes.generateTestCrash();
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_display_message);
 
