@@ -8,8 +8,8 @@ android {
         applicationId "com.example.myapplication"
         minSdkVersion 16
         targetSdkVersion 30
-        versionCode 4
-        versionName "Pear"
+        versionCode 5
+        versionName "PearGrape"
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
